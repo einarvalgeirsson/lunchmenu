@@ -1,0 +1,21 @@
+tiles:
+-
+  name: 'Viggos'
+  url: 'https://google.com'
+  img: 'viggos.jpg'
+  tags: ['favorite']
+-
+  name: 'Italia'
+  url: 'https://google.com'
+  img: 'italia.jpg'
+  tags: ['favorite']
+-
+  name: 'Tugg'
+  url: 'https://google.com'
+  img: 'tugg.jpg'
+  tags: ['favorite']
+-
+  name: 'Icha Mochi'
+  url: 'https://google.com'
+  img: 'icha.jpg'
+  tags: ['favorite']
